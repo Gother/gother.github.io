@@ -301,7 +301,7 @@ input[type="submit"],input[type="reset"],.agileits_mail_grid_lft_grid1 ul li a,.
 }
 .head span i{
 	font-style: normal;
-    color: #FF0000;
+    color: #1184c4;
 }
 .agileits_banner_bottom_grid_l h4{
 	text-transform:capitalize;
@@ -414,7 +414,7 @@ input[type="submit"],input[type="reset"],.agileits_mail_grid_lft_grid1 ul li a,.
 }
 .wthree_testimonials_grid1 h5{
 	font-size: 1em;
-    color: #FF0000;
+    color: #1184c4;
     margin: 1.5em 0 1em;
 }
 .wthree_testimonials_grid1 p{
@@ -485,11 +485,11 @@ input[type="submit"],input[type="reset"],.agileits_mail_grid_lft_grid1 ul li a,.
 /*-- newsletter --*/
 .newsletter{
 	padding:2em 0;
-	background:#FF0000;
+	background:#1184c4;
 }
 .w3ls_newsletter_left h3{
 	position: relative;
-    color: #CA0202;
+    color: #0F71A8;
     font-size: 4em;
     font-weight: bold;
     text-transform: capitalize;

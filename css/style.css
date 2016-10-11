@@ -180,7 +180,7 @@ input[type="submit"],input[type="reset"],.agileits_mail_grid_lft_grid1 ul li a,.
   width: 9px;
   height: 9px;
   display: block;
-  background: #FF0000;
+  background: #1184C4;
   border-radius: 100%;
   box-shadow: 0 17px 0 rgba(224, 70, 129, 0), 0 34px 0 rgba(224, 70, 129, 0);
   -webkit-animation: dotAnimation 1.8s ease-in-out infinite;
@@ -189,31 +189,31 @@ input[type="submit"],input[type="reset"],.agileits_mail_grid_lft_grid1 ul li a,.
 
 @-webkit-keyframes dotAnimation {
   99% {
-    background:#FF0000;
+    background:#1184C4;
     box-shadow: 0 17px 0 rgba(224, 70, 129, 0), 0 34px 0 rgba(224, 70, 129, 0);
   }
   33% {
     background: rgba(224, 70, 129, 0);
-    box-shadow: 0 17px 0 #FF0000, 0 34px 0 rgba(224, 70, 129, 0);
+    box-shadow: 0 17px 0 #1184C4, 0 34px 0 rgba(224, 70, 129, 0);
   }
   66% {
     background: rgba(224, 70, 129, 0);
-    box-shadow: 0 17px 0 rgba(224, 70, 129, 0), 0 34px 0 #FF0000;
+    box-shadow: 0 17px 0 rgba(224, 70, 129, 0), 0 34px 0 #1184C4;
   }
 }
 
 @keyframes dotAnimation {
   99% {
-    background:#FF0000;
+    background:#1184C4;
     box-shadow: 0 17px 0 rgba(224, 70, 129, 0), 0 34px 0 rgba(224, 70, 129, 0);
   }
   33% {
     background: rgba(224, 70, 129, 0);
-    box-shadow: 0 17px 0 #FF0000, 0 34px 0 rgba(224, 70, 129, 0);
+    box-shadow: 0 17px 0 #1184C4, 0 34px 0 rgba(224, 70, 129, 0);
   }
   66% {
     background: rgba(224, 70, 129, 0);
-    box-shadow: 0 17px 0 rgba(224, 70, 129, 0), 0 34px 0 #FF0000;
+    box-shadow: 0 17px 0 rgba(224, 70, 129, 0), 0 34px 0 #1184C4;
   }
 }
 .w3_scroll {
@@ -600,7 +600,7 @@ ul.agileinfo_footer_grid_nav li a span {
     line-height: 1.8em;
 }
 .w3agile_footer_copy p a {
-    color:#FF0000;
+    color:#FFF;
     text-decoration: none;
 }
 .w3agile_footer_copy p a:hover {
@@ -667,14 +667,14 @@ ul.agileinfo_footer_grid_nav li a span {
 .agileinfo_services_grid1:before {
     bottom: 0;
     right: 0;
-    border-bottom: 1px solid #FF0000;
-    border-right: 1px solid #FF0000;
+    border-bottom: 1px solid #1184C4;
+    border-right: 1px solid #1184C4;
 }
 .agileinfo_services_grid1:after {
     top: 0;
     left: 0;
-    border-top: 1px solid #FF0000;
-    border-left: 1px solid #FF0000;
+    border-top: 1px solid #1184C4;
+    border-left: 1px solid #1184C4;
 }
 .agileinfo_services_grid1:hover {
     cursor: default;
@@ -695,7 +695,7 @@ ul.agileinfo_footer_grid_nav li a span {
     font-size: 1.3em;
     line-height: 1.5em;
     margin: 1em 0;
-    color:#FF0000;
+    color:#1184C4;
 }
 .agileinfo_services_grid1:hover h4{
 	color:#FFD900;
@@ -748,12 +748,12 @@ ul.agileinfo_footer_grid_nav li a span {
 /*-- //services --*/
 /*-- portfolio --*/
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-    color: #FF0000;
+    color: #1184C4;
     cursor: default;
     background: none;
     border: none;
     border-bottom-color: transparent;
-    border-bottom: 1px solid #FF0000;
+    border-bottom: 1px solid #1184C4;
 }
 .nav-tabs > li > a {
     margin-right: 3px;
@@ -776,12 +776,12 @@ ul.agileinfo_footer_grid_nav li a span {
 }
 .nav-tabs > li > a:hover {
     border: none;
-	color:#FF0000;
+	color:#1184C4;
     border-bottom: 1px solid;
 	background: none;
 }
 .nav > li > a:hover, .nav > li > a:focus {
-    color:#FF0000;
+    color:#1184C4;
 }
 .nav-tabs > li:first-child {
     margin-left: 20em;
@@ -1060,13 +1060,13 @@ h2.typoh2{
 }
 .agileits_mail_grid_lft_grid ul li span{
 	padding-right:1em;
-	color:#FF0000;
+	color:#1184C4;
 }
 .agileits_mail_grid_lft_grid1{
 	margin:3em 0 0;
 }
 .agileits_mail_grid_lft_grid1 h4 span{
-	color:#FF0000;
+	color:#1184C4;
 }
 .agileits_mail_grid_lft_grid1 ul li{
 	list-style-type: none;
@@ -1127,7 +1127,7 @@ h2.typoh2{
 	margin:.5em 0 0 5.1em;
 }
 .agileits_mail_grid_right1 input[type="submit"]:hover{
-    background:#FF0000;
+    background:#1184C4;
     color: #fff;
 }
 .agileits_mail_grids1 h4{

@@ -734,6 +734,11 @@ ul.agileinfo_footer_grid_nav li a span {
 	line-height:2em;
 	margin:2em 0;
 }
+
+.red{
+  color: #ff4444;
+}
+
 .more a{
 	padding:8px 50px;
 	border:1px solid #fff;
